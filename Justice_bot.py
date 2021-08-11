@@ -115,7 +115,7 @@ async def spam(message):
 
 
 
-client.run('')
+client.run('ODMzNzAxNjQ3NjAyNDE3Njk1.YH2LKg.OvcR_m7CCA0tHSncngjPdpzW6nU')
 
 
 
