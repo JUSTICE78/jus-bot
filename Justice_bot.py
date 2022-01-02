@@ -289,6 +289,5 @@ async def game(self, ctx):
         else:
             await ctx.send('true')
 
-client.run("ODMzNzAxNjQ3NjAyNDE3Njk1.YH2LKg.OvcR_m7CCA0tHSncngjPdpzW6nU")
-
+client.run("")
 
